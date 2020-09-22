@@ -1,3 +1,3 @@
-# Christina.github.io
+# ChristinaAS.github.io
 
 http://ChristinaAS.github.io
