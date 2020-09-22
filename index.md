@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+
+  <h1>Christina Suckow</h1>
+
+  <img src="https://placehold.it/200x200" alt="Chrissy">
+
+  <p>I like coffee, ice cream, and wine</p>
+  <p>I burn popcorn</p>
+
+  <ul>
+    <li><strong>Email:</strong> <a href="#">smiley9824@aol.com</a></li>
+    <li><strong>Github:</strong> <a href="#">ChristinaAS</a></li>
+    <li><strong>Twitter:</strong> <a href="#">NA</a></li>
+  </ul>
+
+  <table>
+    <tr>
+      <th>Books</th>
+      <th>Movies</th>
+      <th>Games</th>
+    </tr>
+    <tr>
+      <td>The Hobbit</td>
+      <td>Hot Fuzz</td>
+      <td>Dark Souls</td>
+    </tr>
+    <tr>
+      <td>The Name of the Wind</td>
+      <td>The Avengers</td>
+      <td>The Last of Us</td>
+    </tr>
+    <tr>
+      <td>The Girl With All the Gifts</td>
+      <td>The Matrix</td>
+      <td>Dragon Age: Origins</td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
+
